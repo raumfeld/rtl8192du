@@ -48,6 +48,10 @@ modules.builtin
 /Module.markers
 /Module.symvers
 
+hostapd/hostapd
+hostapd/hostapd_cli
+
+
 #
 # Debian directory (make deb-pkg)
 #
